@@ -1,0 +1,7 @@
+C:\Users\turke\source\repos\TemelEgitim2\bin\Debug\TemelEgitim2.exe.config
+C:\Users\turke\source\repos\TemelEgitim2\bin\Debug\TemelEgitim2.exe
+C:\Users\turke\source\repos\TemelEgitim2\bin\Debug\TemelEgitim2.pdb
+C:\Users\turke\source\repos\TemelEgitim2\obj\Debug\TemelEgitim2.csprojAssemblyReference.cache
+C:\Users\turke\source\repos\TemelEgitim2\obj\Debug\TemelEgitim2.csproj.CoreCompileInputs.cache
+C:\Users\turke\source\repos\TemelEgitim2\obj\Debug\TemelEgitim2.exe
+C:\Users\turke\source\repos\TemelEgitim2\obj\Debug\TemelEgitim2.pdb
